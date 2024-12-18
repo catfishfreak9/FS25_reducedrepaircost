@@ -20,5 +20,5 @@ function reduceRepairCost:getRepairPrice(superFunc)
 end;
 
 function reduceRepairCost:getRepaintPrice(superFunc)
-	return superFunc(self) / 2;
+	return superFunc(self) / 3;
 end;
