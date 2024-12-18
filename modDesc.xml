@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="93">
+	<author>Catfishfreak9</author>
+	<version>1.0.0.0</version>
+	
+	<title>
+		<en>Reduced repair cost</en>
+	</title>
+	
+	<description>
+		<en>Reduced repair cost</en>
+	</description>
+	
+	<iconFilename>icon_reduceRepairCost.dds</iconFilename>
+	<multiplayer supported="true"/>
+	
+	<extraSourceFiles>
+		<sourceFile filename="RegisterSpecialization.lua"/>
+	</extraSourceFiles> 
+
+   <registerSpecializations>
+		<registerSpecialization name="reduceRepairCost" className="reduceRepairCost" filename="reduceRepairCost.lua" searchedSpecializations="wearable"/>
+	</registerSpecializations>
+	
+</modDesc>
