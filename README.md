@@ -1,4 +1,4 @@
-Quicly thrown together mod to reduce the cost of repairing vehicles in Farming simulator 25.
+Quickly thrown together mod to reduce the cost of repairing vehicles in Farming simulator 25.
 Reduces the cost by 50%.
 Might contain some issues.
 
